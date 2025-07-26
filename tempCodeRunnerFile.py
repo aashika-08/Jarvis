@@ -1,0 +1,1 @@
+from config import NEWS_API_KEY
